@@ -26,4 +26,20 @@ By comparison, each manufacturing lot was analyzed for PSI variability.
 
 However, when analyzing the design specification for each manufacturing lot, Lot 3's variance is 170.29 which is outside of the tolerances of the design specification. Lots 1 and 2 are well within the design specifications and can be accepted into further production.
 
+## T-Tests on Suspension Coils
+Addtional analysis on the production of suspension coils used the statistical t-test which determines the significance of the differences between groups and whether the differences could have happened by chance within the samples. The results of the t-test amonst all manufacturing lots shows no significant differences with a p-value of 0.06. 
+
+![Deliverable 3 all lots]
+
+Individual t-tests on each of the three manufacturing lots show significant differences for Lot 3, with a p-value of 0.042. This indicates that this lot is significantly different from the mean and should be considered for exclusion from use based on the design specifications. See each of the lot t-test results below:
+
+![Deliverable 3 lot 1]
+![Deliverable 3 lot 2]
+1[Deliverable 3 lot 3]
+
+## Study Design MechaCar versus Competition
+The MechaCar company is interested in introducing successful models into the automotive market. As a new entrant, may consumers will want to know how MechaCars stack up against the competition. As gas prices become more of a concern to consumers, one key comparison for MechaCar will be performance in miles per gallon compared to similar models from other manufacturers. The data analysis for this comparison is quite straightforward, does MechaCar perform the same as the average of all comperable models on the market. An additional comparison could be constructed between specific competitive models.
+
+If MechaCar really wants to win the hearts of consumers, a head-to-head A/B comparison could be conducted to determine if MechaCars are preferred over the leading model from another manufacturer. This comparison could be constructed from surveys given after test drives where consumers rank the test drives by categorical data sets such as "Feel", "Ride", and "Handling" on a Liechert scale. Analysis of this data using a chi-squared test could provide MechaCar with powerful data to use in advertising campaigns.
+
  

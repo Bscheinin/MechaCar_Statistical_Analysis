@@ -18,11 +18,11 @@ From this analysis, the linear regression shows two variables provide predictive
 ## Summary Statistics on Suspension Coils
 The MechaCar company needs to control variablity in its manufacturing processes. The design specificitions for one area of manufacturing is in the production of suspension coils. This specification dictates the variance of suspension coils must not exceed 100 pounds per square inch. The following table shows the suspension coil PSI variability is acceptable at a variance of 62.29 across all manufacturing lots:
 
-![Deliverable 2 total]
+![Deliverable 2 total](https://github.com/Bscheinin/MechaCar_Statistical_Analysis/blob/main/Deliverable%202%20total%20summary.PNG)
 
 By comparison, each manufacturing lot was analyzed for PSI variability. 
 
-![Deliverable 2 lot summary]
+![Deliverable 2 lot summary](https://github.com/Bscheinin/MechaCar_Statistical_Analysis/blob/main/Deliverable%202%20lot%20summary.PNG)
 
 However, when analyzing the design specification for each manufacturing lot, Lot 3's variance is 170.29 which is outside of the tolerances of the design specification. Lots 1 and 2 are well within the design specifications and can be accepted into further production.
 

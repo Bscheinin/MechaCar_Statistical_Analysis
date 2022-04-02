@@ -28,7 +28,7 @@ Individual t-tests on each of the three manufacturing lots show significant diff
 
 ![Deliverable 3 lot 1](https://github.com/Bscheinin/MechaCar_Statistical_Analysis/blob/main/Delverable%203%20lot%201.PNG)
 ![Deliverable 3 lot 2](https://github.com/Bscheinin/MechaCar_Statistical_Analysis/blob/main/Delverable%203%20lot%202.PNG)
-1[Deliverable 3 lot 3](https://github.com/Bscheinin/MechaCar_Statistical_Analysis/blob/main/Delverable%203%20lot%203.PNG)
+![Deliverable 3 lot 3](https://github.com/Bscheinin/MechaCar_Statistical_Analysis/blob/main/Delverable%203%20lot%203.PNG)
 
 ## Study Design MechaCar versus Competition
 The MechaCar Company is interested in introducing successful models into the automotive market. As a new entrant, may consumers will want to know how MechaCars stack up against the competition. As gas prices become more of a concern to consumers, one key comparison for MechaCar will be performance in miles per gallon compared to similar models from other manufacturers. The data analysis for this comparison is quite straightforward, does MechaCar perform the same as the average of all comperable models on the market. An additional comparison could be constructed between specific competitive models.

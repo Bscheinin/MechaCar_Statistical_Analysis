@@ -9,7 +9,7 @@ Run t-tests to determine if the manufacturing lots are statistically different f
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 ## Linear Regression to Predict MPG
-The MechaCar company is looking for predictors of performance in miles per gallon(MPG) in their vehicle models. This analysis performed a multiple linear regression analysis to identify which variables in the dataset predict the MPG of MechaCar prototypes.
+The MechaCar company is looking for predictors of performance in miles per gallon (MPG) for their prototype vehicles. This analysis performed a multiple linear regression analysis to identify which variables in the dataset predict the MPG of MechaCar prototypes.
 
 ![Deliverable 1 analysis](https://github.com/Bscheinin/MechaCar_Statistical_Analysis/blob/main/Deliverable%201%20analysis.PNG)
 
